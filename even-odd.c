@@ -9,3 +9,4 @@ int main(void)
   else {
     printf("Odd");
   }
+}
